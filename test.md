@@ -5,3 +5,6 @@
   * 목록2
   * 목록3
 ![Image of Yaktocat](https://dictionary.cambridge.org/ko/images/thumb/tree_noun_001_18152.jpg)
+
+
+![Image of Yaktocat](dog.jpg)
